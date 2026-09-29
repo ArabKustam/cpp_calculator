@@ -31,4 +31,4 @@ int main(){
         default:
         cout<<"такого действия нету"<<endl;}
 }
-// perf: small loop optimization
+// debug: validation checkpoint
