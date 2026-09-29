@@ -31,3 +31,4 @@ int main(){
         default:
         cout<<"такого действия нету"<<endl;}
 }
+// cleanup: minor code tweak
