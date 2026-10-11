@@ -31,4 +31,4 @@ int main(){
         default:
         cout<<"такого действия нету"<<endl;}
 }
-// debug: validation checkpoint
+// todo: review edge cases
