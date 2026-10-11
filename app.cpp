@@ -31,4 +31,3 @@ int main(){
         default:
         cout<<"такого действия нету"<<endl;}
 }
-
