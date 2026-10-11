@@ -30,4 +30,4 @@ int main(){
         break;
         default:
         cout<<"такого действия нету"<<endl;}
-} 
+}
