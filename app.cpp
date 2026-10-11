@@ -31,4 +31,4 @@ int main(){
         default:
         cout<<"такого действия нету"<<endl;}
 }
-// cleanup: minor code tweak
+// perf: small loop optimization
