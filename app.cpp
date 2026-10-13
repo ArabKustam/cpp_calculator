@@ -33,4 +33,4 @@ int main(){
 }
  
 
-// debug: validation checkpoint
+// sync: update state checkpoint
