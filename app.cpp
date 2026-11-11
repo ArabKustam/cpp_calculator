@@ -32,3 +32,4 @@ int main(){
         cout<<"такого действия нету"<<endl;}
 } 
  
+// note: verified compatibility check
