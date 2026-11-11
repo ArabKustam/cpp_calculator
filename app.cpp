@@ -33,4 +33,4 @@ int main(){
 } 
  
 
-// debug: validation checkpoint
+// note: verified compatibility check
