@@ -32,4 +32,4 @@ int main(){
         cout<<"такого действия нету"<<endl;}
 } 
  
-// note: verified compatibility check
+// cleanup: minor code tweak
