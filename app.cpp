@@ -33,4 +33,4 @@ int main(){
 } 
  
 
-// note: verified compatibility check
+// perf: small loop optimization
