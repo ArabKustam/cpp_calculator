@@ -33,4 +33,4 @@ int main(){
 } 
  
 
-// perf: small loop optimization
+// cleanup: minor code tweak
