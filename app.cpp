@@ -33,4 +33,4 @@ int main(){
 } 
  
 
-// todo: review edge cases
+// debug: validation checkpoint
