@@ -33,4 +33,4 @@ int main(){
 } 
  
 
-// debug: validation checkpoint
+// perf: small loop optimization
