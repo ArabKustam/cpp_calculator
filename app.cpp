@@ -34,4 +34,3 @@ int main(){
  
  
 
-// note: verified compatibility check
