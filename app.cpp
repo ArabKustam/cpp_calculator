@@ -33,4 +33,4 @@ int main(){
 } 
  
  
-// sync: update state checkpoint
+// cleanup: minor code tweak
