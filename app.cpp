@@ -34,4 +34,4 @@ int main(){
  
  
 
-// todo: review edge cases
+// note: verified compatibility check
